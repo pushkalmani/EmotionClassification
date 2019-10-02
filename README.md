@@ -35,7 +35,7 @@ This project deals with multiclass classification problem of classifying the emo
 [(Back to top)](#list-of-contents)
 
 Dataset used is : [The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://zenodo.org/record/1188976)
-We will be using audio only data from the dataset mentioned above. 
+It contains audio data as well as video+audio data for the task of emotion classification. We will be using audio only data from the dataset mentioned above. 
  
  
 ## Working
