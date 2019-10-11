@@ -34,12 +34,12 @@ This project deals with multiclass classification problem of classifying the emo
  ---
 [(Back to top)](#list-of-contents)
 
-Dataset used is : [The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://zenodo.org/record/1188976)
+Dataset used is : [The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://zenodo.org/record/1188976).
 We will be using audio only data from the dataset mentioned above. 
  
  
 ## Working
----
+---------------------------------------------------------------------------------------------------------------------------------
 [(Back to top)](#list-of-contents)
 
 The step-by-step procedure of the Project:
@@ -55,7 +55,7 @@ NOTE : The whole Machine Learning pipeline is implemented in the jupyter environ
  
 
 ## Installation
----
+---------------------------------------------------------------------------------------------------------------------------------
 [(Back to top)](#list-of-contents)
 
 Following Python Libraries need to be installed for the successful completion of project.
@@ -70,7 +70,7 @@ Install above required packages using pip or any other method.
 Note : You can simply use Google Colab which already has configured environment!
 
 ## Running
-
+---------------------------------------------------------------------------------------------------------------------------------
 - Plotting of Spectogram (Unique for a particular audio clip!).
 
 ![img](https://imgur.com/6vPfSQ9.jpg)
